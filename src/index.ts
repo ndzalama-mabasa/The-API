@@ -1,5 +1,5 @@
 export const handler = async (event) => {
-  const randomNumber = Math.random();
+  let randomNumber = Math.random();
   // TODO implement
   const response = {
     statusCode: 200,
