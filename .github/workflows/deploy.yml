@@ -30,7 +30,7 @@ jobs:
           aws-region: af-south-1
 
       - name: Zip Function Code
-        run: zip -r function.zip ./dist/*
+        run: zip -r function.zip ./*
 
       - name: Deploy to Lambda
         run: |

@@ -5,7 +5,7 @@ esbuild
   .build({
     entryPoints: ["./src/index.ts"], // Your entry file
     bundle: false, // Disable bundling if you want separate files
-    outdir: "./dist", // Output directory
+    outdir: "./", // Output directory
     format: "esm", // Output as ES modules
     sourcemap: true, // Generate source maps (optional)
     target: "es2020", // Target environment
