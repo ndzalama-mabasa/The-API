@@ -14,5 +14,8 @@
     "url": "https://github.com/ndzalama-mabasa/node-env/issues"
   },
   "homepage": "https://github.com/ndzalama-mabasa/node-env#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
