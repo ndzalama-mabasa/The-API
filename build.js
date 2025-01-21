@@ -7,6 +7,7 @@ esbuild
     bundle: false, // Disable bundling if you want separate files
     outdir: "./", // Output directory
     format: "cjs", // Output as ES modules
-    target: "es6", // Target environment
+    target: "ES2020", // Target environment
+    module: "ESNext",
   })
   .catch(() => process.exit(1));
