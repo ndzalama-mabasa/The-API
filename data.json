@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "jdoe",
+    "email": "jdoe@example.com",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "username": "asmith",
+    "email": "asmith@example.com",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "username": "mjones",
+    "email": "mjones@example.com",
+    "department": "Finance"
+  },
+  {
+    "id": 4,
+    "username": "kwilson",
+    "email": "kwilson@example.com",
+    "department": "Human Resources"
+  },
+  {
+    "id": 5,
+    "username": "ebrown",
+    "email": "ebrown@example.com",
+    "department": "Engineering"
+  },
+  {
+    "id": 6,
+    "username": "tthomas",
+    "email": "tthomas@example.com",
+    "department": "Sales"
+  },
+  {
+    "id": 7,
+    "username": "lmartin",
+    "email": "lmartin@example.com",
+    "department": "Product Management"
+  },
+  {
+    "id": 8,
+    "username": "glopez",
+    "email": "glopez@example.com",
+    "department": "Customer Support"
+  },
+  {
+    "id": 9,
+    "username": "rwright",
+    "email": "rwright@example.com",
+    "department": "Legal"
+  },
+  {
+    "id": 10,
+    "username": "slee",
+    "email": "slee@example.com",
+    "department": "IT"
+  }
+]
